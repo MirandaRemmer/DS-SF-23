@@ -15,7 +15,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 1 | 5/5 | [What is Data Science](./classes/01) | |
 | 1 | 5/10 | [Research Design and _pandas_](./classes/02) | |
 | 2 | 5/12 | [Descriptive Statistics for Exploratory Data Analysis](./classes/03) | **[Unit Project 1](./unit-projects/1) due** |
-| 2 | 5/17 | Flexible Class Session: Exploratory Data Analysis | |
+| 2 | 5/17 | [Flexible Class Session: Exploratory Data Analysis](./classes/04) | |
 | 3 | 5/19 | Inferential Statistics for Model Fit | **[Unit Project 2](./unit-projects/2) due** |
 | | | **Unit 2 - Foundations of Data Modeling** | |
 | 3 | 5/24 | Introduction to Regression and Model Fit | **[Final Project 1](./final-project/1) due** |
