@@ -19,7 +19,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 3 | 5/19 | [Inferential Statistics for Model Fit](./classes/05) | **[Unit Project 2](./unit-projects/2) due** |
 | | | **Unit 2 - Foundations of Data Modeling** | |
 | 3 | 5/24 | [Introduction to Regression and Model Fit](./classes/06) | **[Final Project 1](./final-project/1) due** |
-| 4 | 5/26 | Introduction to Regression and Model Fit, Part 2 | |
+| 4 | 5/26 | [Introduction to Regression and Model Fit, Part 2](./classes/07) | |
 | 4 | 5/31 | Introduction to Classification | |
 | 5 | 6/2 | Introduction to Logistic Regression | **[Final Project 2](./final-project/2) due** |
 | 5 | 6/7 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-projects/3) due** |
