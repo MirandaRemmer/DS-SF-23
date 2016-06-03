@@ -20,7 +20,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | | | **Unit 2 - Foundations of Data Modeling** | |
 | 3 | 5/24 | [Introduction to Regression and Model Fit](./classes/06) | **[Final Project 1](./final-project/1) due** |
 | 4 | 5/26 | [Introduction to Regression and Model Fit, Part 2](./classes/07) | |
-| 4 | 5/31 | Introduction to Classification | |
+| 4 | 5/31 | [Introduction to Classification](./classes/08) | |
 | 5 | 6/2 | Introduction to Logistic Regression | **[Final Project 2](./final-project/2) due** |
 | 5 | 6/7 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-projects/3) due** |
 | 6 | 6/9 | Flexible Class Session | |
@@ -49,8 +49,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- Bob: Check his weekly announcements on Slack
-- Ivan on Tuesdays and Thursdays, 5:30PM to 6:30PM at GA (one hour before class)
+- Bob on Tuesdays and Thursdays, 5:30PM to 6:30PM at GA (one hour before class)
+- Ivan: Check his weekly announcements on Slack
 
 ## Slack
 
